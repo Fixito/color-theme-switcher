@@ -14,4 +14,4 @@
 
 ## Overview
 
-![screenshot](img/overview.PNG)
+![screenshot](overview.PNG)
